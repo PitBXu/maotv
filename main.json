@@ -45,7 +45,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/tree/master/pub/ext/auete.json"
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/auete.json"
     },
     {
       "key": "n0ys_spider",
@@ -55,7 +55,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/tree/master/pub/ext/90ys.json"
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/90ys.json"
     },
     {
       "key": "cokemv_spider",
@@ -65,7 +65,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/tree/master/pub/ext/cokemv.json"
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/cokemv.json"
     },
     {
       "key": "adys_spider",
@@ -75,7 +75,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/tree/master/pub/ext/aidi.json"
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/aidi.json"
     },
     {
       "key": "enlienli_spider",
@@ -94,7 +94,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/tree/master/pub/ext/jipin.json"
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/jipin.json"
     },
     {
       "key": "9ekk_spider",
@@ -104,7 +104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/tree/master/pub/ext/90ys.json"
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/90ys.json"
     },
     {
       "key": "csp_YydsAli1",
@@ -123,7 +123,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/tree/master/pub/xpath/cjtys.json"
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/cjtys.json"
     },
     {
       "key": "csp_xpath_saohuotv",
@@ -133,7 +133,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/tree/master/pub/xpath/saohuotv2.json"
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/saohuotv2.json"
     },
     {
       "key": "csp_xpath_egg",
@@ -143,7 +143,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/tree/master/pub/xpath/egg.json"
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/egg.json"
     },
     {
       "key": "csp_xpath_subb",
@@ -153,7 +153,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/tree/master/pub/xpath/subaibai.json"
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/subaibai.json"
     },
     {
       "key": "csp_xpath_dm84",
@@ -163,7 +163,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/tree/master/pub/xpath/dm84.json"
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/dm84.json"
     },
     {
       "key": "csp_xpath_age",
@@ -173,7 +173,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/tree/master/pub/xpath/agefans.json"
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/agefans.json"
     }
   ],
   "lives": [
@@ -692,5 +692,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://litecucumber.coding.net/p/cat/d/config/git/tree/master/main_spider.txt;md5;a0a949631d07971cf45e71367c208858"
+  "spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;a0a949631d07971cf45e71367c208858"
 }
