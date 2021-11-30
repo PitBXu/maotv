@@ -107,6 +107,16 @@
       "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/jipin.json"
     },
     {
+      "key": "buka_spider",
+      "name": "真不卡(SP)",
+      "type": 3,
+      "api": "csp_Buka",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/buka.json"
+    },
+    {
       "key": "9ekk_spider",
       "name": "9亿看看(SP)",
       "type": 3,
@@ -644,6 +654,11 @@
           "category": 4,
           "name": "mediacodec-hevc",
           "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "36000000"
         }
       ]
     },
@@ -727,8 +742,8 @@
         },
         {
           "category": 1,
-          "name": "dns_cache_clear",
-          "value": "1"
+          "name": "dns_cache_timeout",
+          "value": "36000000"
         }
       ]
     }
@@ -792,5 +807,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;c1628d87108616e40b1cd4cac17cbf8a"
+  "spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;14c0aa1759f157743216a3692843ec75"
 }
