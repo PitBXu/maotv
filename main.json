@@ -323,6 +323,11 @@
       "url": "Sequence"
     },
     {
+      "name": "瓜瓜免嗅",
+      "type": 2,
+      "url": "Cucumber"
+    },
+    {
       "name": "555TV",
       "type": 1,
       "url": "https://api.parwix.com:4433/analysis/json/?uid=1752&my=fhlwyABGHJLNRX1489&url=",
