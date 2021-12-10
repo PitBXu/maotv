@@ -112,6 +112,14 @@
           "url": "https://vip.wuqcms.com/api.php/app/"
         },
         {
+          "title": "看365",
+          "url": "https://www.kan365.xyz/api.php/app/"
+        },
+        {
+          "title": "酷扑TV",
+          "url": "http://1.116.36.66:1080/api.php/app/"
+        },
+        {
           "title": "灵狐影视",
           "url": "http://x.dmntv.com/api.php/app/"
         },
@@ -121,7 +129,7 @@
         },
         {
           "title": "抹茶猪",
-          "url": "https://www.mczdyw.com/xgapp.php/v1/"
+          "url": "https://www.mczdyw.com/api.php/app/"
         },
         {
           "title": "萌蛋蛋",
@@ -317,6 +325,10 @@
           "url": "http://www.feifan123.xyz/api.php/v1.vod"
         },
         {
+          "title": "饭后电影",
+          "url": "http://summ.vip/api.php/v1.vod"
+        },
+        {
           "title": "飞捷影视",
           "url": "https://www.fj6080.com/api.php/v1.vod"
         },
@@ -423,10 +435,6 @@
         {
           "title": "喵乐影视",
           "url": "http://miaoleys.com/api.php/v1.vod"
-        },
-        {
-          "title": "麻腾TV",
-          "url": "https://www.matengtv.top/api.php/v1.vod"
         },
         {
           "title": "喵影影视",
@@ -589,6 +597,10 @@
           "url": "http://3ketv.com/mogai_api.php/v1.vod"
         },
         {
+          "title": "星球视频",
+          "url": "http://119.29.121.48:8088/api.php/v1.vod"
+        },
+        {
           "title": "雪人资源",
           "url": "https://zy.qd234.cn/mogai_api.php/v1.vod"
         },
@@ -667,6 +679,10 @@
         {
           "title": "追番猫",
           "url": "http://dm.496dy.cn:88/api.php/v1.vod"
+        },
+        {
+          "title": "追剧吧",
+          "url": "http://zhuiju8.vip/api.php/v1.vod"
         },
         {
           "title": "宅男影院",
