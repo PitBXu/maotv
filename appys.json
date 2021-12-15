@@ -60,12 +60,16 @@
           "url": "https://diliktv.xyz/xgapp.php/v1/"
         },
         {
-          "title": "大师兄",
-          "url": "https://hou.lu/api.php/app/"
+          "title": "嘀哩嘀哩",
+          "url": "http://dilidili.la/api.php/app/"
+        },
+        {
+          "title": "北墨影院",
+          "url": "http://beimotv.com/api.php/app/"
         },
         {
           "title": "段友影视",
-          "url": "https://lb.5277s.com/api.php/app/"
+          "url": "http://js.66app.me/api.php/app/"
         },
         {
           "title": "饭团影院",
@@ -130,6 +134,10 @@
         {
           "title": "抹茶猪",
           "url": "https://www.mczdyw.com/api.php/app/"
+        },
+        {
+          "title": "漫岛",
+          "url": "http://a.mdaotv.cn/api.php/app/"
         },
         {
           "title": "萌蛋蛋",
@@ -429,12 +437,28 @@
           "url": "http://vapp.23at.cn/api.php/v1.vod"
         },
         {
+          "title": "免费看",
+          "url": "https://freekan.vip/mogai_api.php/v1.vod"
+        },
+        {
+          "title": "麻瓜视频",
+          "url": "http://aliyun.k8aa.com/mogai_api.php/v1.vod"
+        },
+        {
           "title": "美剧虫",
           "url": "https://meijuchong.com/api.php/v1.vod"
         },
         {
+          "title": "美剧范",
+          "url": "http://ttzmz.net/api.php/v1.vod"
+        },
+        {
           "title": "喵乐影视",
           "url": "http://miaoleys.com/api.php/v1.vod"
+        },
+        {
+          "title": "名视影",
+          "url": "http://app.qqccv.com/mogai_api.php/v1.vod"
         },
         {
           "title": "喵影影视",
@@ -567,6 +591,11 @@
         {
           "title": "心爱影视",
           "url": "https://xays2233.com/mogai_api.php/v1.vod"
+        },
+
+        {
+          "title": "香橙动漫",
+          "url": "https://xcys7788.com/mogai_api.php/v1.vod"
         },
         {
           "title": "小城影视",
@@ -827,6 +856,10 @@
           "url": "https://tv.521x5.com/api.php/iptv/vod/"
         },
         {
+          "title": "免费看TV",
+          "url": "http://www.freekan.vip/api.php/iptv/vod/"
+        },
+        {
           "title": "米来影视",
           "url": "http://42.51.37.161:2346/api.php/iptv/vod/"
         },
@@ -837,6 +870,10 @@
         {
           "title": "双子星",
           "url": "http://tv.diyoui.cc/api.php/iptv/vod/"
+        },
+        {
+          "title": "山楂影视",
+          "url": "http://dy6.dcd1.cn/api.php/iptv/vod/"
         },
         {
           "title": "若惜影视",
