@@ -687,11 +687,6 @@
         },
         {
           "category": 4,
-          "name": "max-buffer-size",
-          "value": "5242880"
-        },
-        {
-          "category": 4,
           "name": "enable-accurate-seek",
           "value": "0"
         },
@@ -718,7 +713,7 @@
         {
           "category": 1,
           "name": "dns_cache_timeout",
-          "value": "36000000"
+          "value": "600000000"
         }
       ]
     },
@@ -772,11 +767,6 @@
         },
         {
           "category": 4,
-          "name": "max-buffer-size",
-          "value": "5242880"
-        },
-        {
-          "category": 4,
           "name": "enable-accurate-seek",
           "value": "0"
         },
@@ -803,7 +793,7 @@
         {
           "category": 1,
           "name": "dns_cache_timeout",
-          "value": "36000000"
+          "value": "600000000"
         }
       ]
     }
