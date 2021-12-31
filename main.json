@@ -21,6 +21,16 @@
       "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/sogou.json"
     },
     {
+      "key": "360_spider",
+      "name": "360影视(官源)",
+      "type": 3,
+      "api": "csp_YS360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/360.json"
+    },
+    {
       "key": "rrm_spider",
       "name": "人人迷(免解)",
       "type": 3,
@@ -29,6 +39,16 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "B9C8093A210EADA1"
+    },
+    {
+      "key": "ikan_spider",
+      "name": "爱看(SP)",
+      "type": 3,
+      "api": "csp_IKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "A9545C889B5D"
     },
     {
       "key": "gdyy_spider",
@@ -51,48 +71,10 @@
       "ext": "dfcd0b28-56b4-5313-9ce2-7e9f0857186f"
     },
     {
-      "key": "ikan_spider",
-      "name": "爱看(SP)",
-      "type": 3,
-      "api": "csp_IKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "A9545C889B5D"
-    },
-    {
-      "key": "epang_spider",
-      "name": "阿房App(SP)",
-      "type": 3,
-      "api": "csp_EPangApp",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "360_spider",
-      "name": "360影视(官源)",
-      "type": 3,
-      "api": "csp_YS360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/360.json"
-    },
-    {
       "key": "dsx_spider",
       "name": "大师兄影视(V0)",
       "type": 3,
       "api": "csp_Dsxys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "nfzjm_spider",
-      "name": "南府追剧(AT)",
-      "type": 3,
-      "api": "csp_Nfzjm",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -111,6 +93,24 @@
       "name": "追剧达人(V0)",
       "type": 3,
       "api": "csp_Zjdr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "epang_spider",
+      "name": "阿房App(SP)",
+      "type": 3,
+      "api": "csp_EPangApp",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "nfzjm_spider",
+      "name": "南府追剧(AT)",
+      "type": 3,
+      "api": "csp_Nfzjm",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
